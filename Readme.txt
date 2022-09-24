@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+KodeGo- mini project 1 
 
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+i change something i cannot do it in the previous repository
