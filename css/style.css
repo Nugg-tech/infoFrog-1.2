@@ -230,6 +230,10 @@ section{
 }
 #course-heading{
    margin-top: 6rem;
+   margin-bottom: 8rem;
+}
+#course{
+   margin-bottom: 13.8rem;
 }
 #description{
    padding-right: 5rem;
@@ -242,6 +246,7 @@ section{
    padding:2rem;
    margin-bottom: 4rem;
    user-select: none;
+   cursor: pointer;
 }
 
 .courses .slide img{
